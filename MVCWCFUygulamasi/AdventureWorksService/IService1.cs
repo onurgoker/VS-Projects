@@ -12,7 +12,6 @@ namespace AdventureWorksService
     [ServiceContract]
     public interface IServiceAdventureWorks
     {
-
         [OperationContract]
         string GetData(int value);
 
