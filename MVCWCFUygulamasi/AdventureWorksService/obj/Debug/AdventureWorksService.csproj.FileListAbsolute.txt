@@ -1,0 +1,10 @@
+c:\users\onur\documents\visual studio 2013\Projects\MVCWCFUygulamasi\AdventureWorksService\bin\AdventureWorksService.dll.config
+c:\users\onur\documents\visual studio 2013\Projects\MVCWCFUygulamasi\AdventureWorksService\bin\AdventureWorksService.dll
+c:\users\onur\documents\visual studio 2013\Projects\MVCWCFUygulamasi\AdventureWorksService\bin\AdventureWorksService.pdb
+c:\users\onur\documents\visual studio 2013\Projects\MVCWCFUygulamasi\AdventureWorksService\obj\Debug\AdventureWorksService.dll
+c:\users\onur\documents\visual studio 2013\Projects\MVCWCFUygulamasi\AdventureWorksService\obj\Debug\AdventureWorksService.pdb
+c:\users\onur\documents\visual studio 2013\Projects\MVCWCFUygulamasi\AdventureWorksService\obj\Debug\AdventureWorksService.csprojResolveAssemblyReference.cache
+c:\users\onur\documents\visual studio 2013\Projects\MVCWCFUygulamasi\AdventureWorksService\bin\EntityFramework.dll
+c:\users\onur\documents\visual studio 2013\Projects\MVCWCFUygulamasi\AdventureWorksService\bin\EntityFramework.SqlServer.dll
+c:\users\onur\documents\visual studio 2013\Projects\MVCWCFUygulamasi\AdventureWorksService\bin\EntityFramework.xml
+c:\users\onur\documents\visual studio 2013\Projects\MVCWCFUygulamasi\AdventureWorksService\bin\EntityFramework.SqlServer.xml
